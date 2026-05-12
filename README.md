@@ -1,4 +1,4 @@
-# Copiloto de Vendas com IA
+# 🧠 Copiloto de Vendas com IA
 
 Assistente de vendas inteligente para lojas gamer, focado em conversão, upsell e aumento de ticket médio via WhatsApp e Instagram.
 
@@ -6,25 +6,35 @@ Assistente de vendas inteligente para lojas gamer, focado em conversão, upsell 
 
 Este projeto cria um copiloto de vendas baseado em IA capaz de:
 
-🧾 Interpretar intenções de compra de clientes
-💰 Identificar oportunidades de high ticket e low ticket
-🚀 Sugerir upsell e cross-sell inteligentes
-💬 Gerar respostas prontas para WhatsApp/Instagram
-📈 Aumentar ticket médio de forma natural e consultiva
-🧩 Contexto do Negócio
-Categoria	Produtos
-💎 High Ticket	PC Gamer, Notebook Gamer
-🧰 Low Ticket	Mouse, Teclado, RAM, Decoração, Periféricos
-🧠 Estrutura do Prompt
-📌 1. Papel do Assistente
+- 🧾 Interpretar intenções de compra de clientes
+- 💰 Identificar oportunidades de high ticket e low ticket
+- 🚀 Sugerir upsell e cross-sell inteligentes
+- 💬 Gerar respostas prontas para WhatsApp/Instagram
+- 📈 Aumentar ticket médio de forma natural e consultiva
+
+## 🧩 Contexto do Negócio
+💎 High Ticket
+- PC Gamer
+- Notebook Gamer
+
+## 🧰 Low Ticket
+- Mouse
+- Teclado
+- RAM
+- Decoração
+- Periféricos
+
+## 🧠 Estrutura do Prompt
+### 📌 1. Papel do Assistente
 
 O agente atua como um consultor de vendas especializado em loja gamer, com foco em:
 
-Identificação de necessidade real do cliente
-Construção de ofertas coerentes
-Aumento de ticket médio sem pressão
-Sugestão estratégica de produtos complementares
-📥 2. Input do Cliente
+- Identificação de necessidade real do cliente
+- Construção de ofertas coerentes
+- Aumento de ticket médio sem pressão
+- Sugestão estratégica de produtos complementares
+
+## 📥 2. Input do Cliente
 
 O usuário pode enviar algo como:
 
