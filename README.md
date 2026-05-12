@@ -82,7 +82,7 @@ Sugestões como:
 
 ### 📐 F) Estratégia de ancoragem
 
-*Modelo 1:*
+**Modelo 1:**
 
 Bom / Ótimo / Premium
 
