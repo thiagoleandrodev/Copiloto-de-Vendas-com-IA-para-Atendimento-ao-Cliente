@@ -2,7 +2,7 @@
 
 Assistente de vendas inteligente para lojas gamer, focado em conversão, upsell e aumento de ticket médio via WhatsApp e Instagram.
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Este projeto cria um copiloto de vendas baseado em IA capaz de:
 
