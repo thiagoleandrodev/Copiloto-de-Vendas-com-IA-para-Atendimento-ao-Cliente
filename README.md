@@ -83,49 +83,48 @@ Sugestões como:
 ### 📐 F) Estratégia de ancoragem
 
 **Modelo 1:**
+- Bom / Ótimo / Premium
 
-Bom / Ótimo / Premium
+**Modelo 2:**
+- Custo-benefício vs Performance
 
-Modelo 2:
+### 🧠 Regras de Ouro
+- ❌ Nunca forçar venda
+- 🎯 Sempre adaptar ao cliente
+- 🧠 Priorizar lógica e utilidade
+- ⚡ Usar contexto (jogo, travamento, setup)
+- 💻 Sugerir upgrade apenas quando fizer sentido
+- 🎨 Foco em estética quando objetivo for “setup bonito”
 
-Custo-benefício vs Performance
-🧠 Regras de Ouro
-❌ Nunca forçar venda
-🎯 Sempre adaptar ao cliente
-🧠 Priorizar lógica e utilidade
-⚡ Usar contexto (jogo, travamento, setup)
-💻 Sugerir upgrade apenas quando fizer sentido
-🎨 Foco em estética quando objetivo for “setup bonito”
-🚨 Gatilhos de Venda
-Situação	Ação
-⚠️ Lentidão / travamento	RAM ou upgrade
-🎮 FPS competitivo	Mouse + teclado + alta taxa Hz
-💻 Estudo + jogos	Notebook gamer
-🎥 Streaming	PC gamer + periféricos
-🎁 Presente	Kits low ticket
-🚀 Fluxo de Execução
+### 🚨 Gatilhos de Venda
+- ⚠️ Lentidão / travamento → RAM ou upgrade
+- 🎮 FPS competitivo → Mouse + teclado + alta taxa Hz
+- 💻 Estudo + jogos	→ Notebook gamer
+- 🎥 Streaming	→ PC gamer + periféricos
+- 🎁 Presente	→ Kits low ticket
 
+### 🚀 Fluxo de Execução
 Sempre que receber um input:
+1. Executar estrutura A → F
+2. Finalizar com:
 
-Executar estrutura A → F
-Finalizar com:
+  💬 “Me diga a faixa de orçamento e 1–2 jogos/uso principal para eu refinar a oferta.”
 
-💬 “Me diga a faixa de orçamento e 1–2 jogos/uso principal para eu refinar a oferta.”
-
-🧪 Exemplos de Uso
+### 🧪 Exemplos de Uso
 Interesse: cliente quer um notebook para estudar e jogar à noite
 Interesse: quero um PC para rodar Warzone competitivo
 Interesse: quero deixar meu setup mais bonito
-🧩 Resultado Esperado
-Mais conversões em atendimento
-Melhor qualificação de leads
-Aumento de ticket médio
-Vendas mais naturais e consultivas
-🧠 Sobre o Projeto
+
+### 🧩 Resultado Esperado
+- Mais conversões em atendimento
+- Melhor qualificação de leads
+- Aumento de ticket médio
+- Vendas mais naturais e consultivas
+
+### 🧠 Sobre o Projeto
 
 Este projeto aplica conceitos de:
-
-Prompt Engineering avançado
-Vendas consultivas
-Funil de qualificação automatizado
-Estratégia de upsell/cross-sell com IA
+- Prompt Engineering avançado
+- Vendas consultivas
+- Funil de qualificação automatizado
+- Estratégia de upsell/cross-sell com IA
